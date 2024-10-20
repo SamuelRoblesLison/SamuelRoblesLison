@@ -1,4 +1,4 @@
-## 👋Hola a todos, mi nombre es Samuel y soy estudiante de Desarrollo de apicaciones web a distancia en el Centro de Formacion porfesional a distancia ["La conservera"](https://sites.google.com/view/fplaconservera)🎓
+## 👋Hola a todos, mi nombre es Samuel y soy estudiante de Desarrollo de aplicaciones web a distancia en el Centro de Formacion porfesional a distancia ["La conservera"](https://sites.google.com/view/fplaconservera)🎓
 
 ---
 
@@ -6,8 +6,8 @@
 
 ## Cuando no estoy estudiando para este grado, me encanta sumergirme en mis pasatiempos favoritos⚡
 - 🎧Escuchar música es una de mis formas de desconectar y recargar energías, siempre buscando nuevos géneros y artistas.
-- 💪También disfruto mantenerme activo en el gimnasio, donde no solo entreno el cuerpo, sino que también libero estrés y mejoro mi salud mental.
-- 🎮Y, por supuesto, los videojuegos son una gran parte de mi tiempo libre; me apasiona explorar nuevos mundos virtuales y enfrentar desafíos que pongan a prueba mis habilidades.
+- 💪También disfruto de mantenerme activo en el gimnasio, donde no solo entreno el cuerpo, sino que también libero estrés y mejoro mi salud mental.
+- 🎮Y por supuesto, los videojuegos son una gran parte de mi tiempo libre; me apasiona explorar nuevos mundos virtuales y enfrentar desafíos que pongan a prueba mis habilidades.
 
 ---
 
