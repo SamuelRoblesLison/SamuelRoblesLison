@@ -13,12 +13,12 @@
 
 ## Lenguaje que conozco🔍
 
-| Lenguaje/Framework                                                                                               | Interes actual por aprender mas  | Herramientas relacionadas | Fecuencia de actualizacion|
-|--------------------                                                                                              |----------                        |--------------             |------------------         |
-|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)                   | Alto                             | Spring,hibernate,Struts   | Mensual                   |
-|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)            | Alto                             | Jupyter, Pandas, NumPy    | Semanal                   |
-|![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)| Intermedio                       | Webpack, Babel            | Mensual                   |
-|![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)                 | Intermedio                       | Bootstrap, Sass           | Ocasional                 |
+| Lenguaje/Framework                                                                                | Interes actual por aprender| 
+|--------------------                                                                               |--------------------        |
+|![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)                   | Alto        |
+|![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)            | Alto        |    
+|![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)| Intermedio  |
+|![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)                 | Intermedio  |
 
 
 ## Preferencias para un futuro
